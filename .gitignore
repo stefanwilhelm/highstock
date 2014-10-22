@@ -41,3 +41,23 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.RData
+.Rhistory
+.Rproj.user/A652BD92/pcs/files-pane.pper
+*.pper
+.Rproj.user/A652BD92/persistent-state
+.Rproj.user/A652BD92/sdb/per/t/2CE8BDF4
+.Rproj.user/A652BD92/sdb/per/t/C6FE9D0F
+.Rproj.user/A652BD92/sdb/prop/5B09617
+.Rproj.user/A652BD92/sdb/prop/A9E279F8
+.Rproj.user/A652BD92/sdb/prop/BAF22A40
+.Rproj.user/A652BD92/sdb/prop/INDEX
+CVS/Entries
+CVS/Entries.Extra
+CVS/Entries.Extra.Old
+CVS/Entries.Old
+CVS/Repository
+CVS/Root
+shinyapps/stefanwilhelm/highstock.dcf
+highstock.Rproj
